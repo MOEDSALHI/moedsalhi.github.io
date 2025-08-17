@@ -11,7 +11,7 @@ Je partage ici mes articles sur le développement Python, Django, FastAPI, DevOp
 
 - [🧠 Comment revisiter les Dunder Methods de Python a amélioré mes APIs Django](./articles/dunder-methods-django.md)
 - [⚙️ Secure Django Backend Guide](./articles/secure-django-backend.md)
-<!--
+- [🧩 Clean Django Architecture](./articles/clean_django_architecture.md)
 - [⚙️ Guide complet FastAPI + Celery](./articles/fastapi-celery-guide.md)
 - [📦 Préparation à la certification OpenShift EX288](./articles/openshift-ex288-preparation.md)
--->
+
