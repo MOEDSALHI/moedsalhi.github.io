@@ -1,3 +1,12 @@
+*Ce billet fait partie de mon blog technique : [Accueil](../index.md)*
+
+---
+
+## Sommaire
+- [🔄 Revenir aux Bases](#-revenir-aux-bases)
+- [🔍 C’est Quoi une Dunder Method ?](#-cest-quoi-une-dunder-method-)
+- ...
+
 # Comment Revisiter les Dunder Methods de Python a Amélioré ma Façon de Concevoir des APIs Django
 
 ---
