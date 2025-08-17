@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bienvenue
+---
+
 # 👨‍💻 Bienvenue sur mon blog technique
 
 Je partage ici mes articles sur le développement Python, Django, FastAPI, DevOps, OpenShift et plus.
